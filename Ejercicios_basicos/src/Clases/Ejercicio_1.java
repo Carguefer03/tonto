@@ -1,7 +1,7 @@
 package Clases;
 
 import java.util.Scanner;
-// Calcula el factorial de un número pedido por teclado
+// Calcula el factorial de un nÃºmero pedido por teclado
 
 public class Ejercicio_1 {
 
@@ -26,7 +26,7 @@ public class Ejercicio_1 {
 			
 		} else{
 			
-			return num*factorial(num-1);
+			return 5;
 		}
 	}
 
