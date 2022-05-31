@@ -23,7 +23,7 @@ public class Ejercicio_1 {
 		
 		if (num==0) {
 			return 1;
-			
+			//holaaaaaaa tontoooo
 		} else{
 			
 			return 5;
